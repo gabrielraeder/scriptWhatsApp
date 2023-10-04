@@ -8,6 +8,12 @@ Escolha um dos seguintes:
 
 - [Lord of the Rings: The Fellowship of the Ring](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/lotr1.js)
 
+- [Lord of the Rings: Two Towers](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/lotr2.js)
+
+- [Lord of the Rings: The Return of the King](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/lotr3.js)
+
+- [Lord of the Rings Trilogy](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/lotrFullVersion.js)
+
 - [Shrek](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/shrek.js)
 
 - [Bee Movie](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/beeMovie.js)
