@@ -6,11 +6,11 @@ Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou g
 
 Escolha um dos seguintes:
 
-- [lotr1.js](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/lotr1.js)
+- [Lord of the Rings: The Fellowship of the Ring](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/lotr1.js)
 
-- [shrek.js](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/shrek.js)
+- [Shrek](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/shrek.js)
 
-- [beeMovie.js](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/beeMovie.js)
+- [Bee Movie](https://github.com/gabrielraeder/scriptWhatsApp/blob/main/beeMovie.js)
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
